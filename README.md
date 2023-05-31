@@ -214,7 +214,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WissalManseri&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WissalManseri&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  
