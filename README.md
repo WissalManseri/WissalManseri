@@ -164,12 +164,12 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
  <h3 align="left" >Assistance :</h3>
 <br>
-<p> <a href="https://ko-fi.com/WISSAL-MN"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="WISSAL-MN" /></a> </p>
+<p> <a href="https://ko-fi.com/WissalManseri"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="WISSAL-MN" /></a> </p>
  <br>
  <br>
  <br>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WISSAL-MN&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WissalManseri&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
 
  <br>
  <br>
@@ -188,7 +188,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  
 
 
-![WISS GitHub stats](https://github-readme-stats.vercel.app/api?username=WISSAL-MN&show_icons=true&theme=radical)
+![WISS GitHub stats](https://github-readme-stats.vercel.app/api?username=WissalManseri&show_icons=true&theme=radical)
 
 
 
@@ -196,7 +196,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WISSAL-MN&&theme=radical" alt= "wissal-mn"width=497" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WissalManseri&&theme=radical" alt= "wissal-mn"width=497" /></p>
  
  <br>
  <br>
@@ -214,11 +214,11 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WISSAL-MN&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WissalManseri&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  
  <br>
  <h3>   My contribution graph eaten by the snake: 🐍</h3>
 
- ![snake gif](https://github.com/WISSAL-MN/WISSAL-MN/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/WissalManseri/WissalManseri/blob/output/github-contribution-grid-snake.gif)
