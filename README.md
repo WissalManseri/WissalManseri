@@ -29,7 +29,7 @@
 
 🏆 Github Achievements :
 
-![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&theme=radical)
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WissalManseri&theme=radical)
 
  <h3 align="left"> 🔎 Github Profile Details :</h3>
  <br>
