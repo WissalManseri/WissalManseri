@@ -33,7 +33,7 @@
 
  <h3 align="left"> 🔎 Github Profile Details :</h3>
  <br>
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISSAL-MN&theme=radical" alt="TopCodeBeast" align = "center"/></p>
+<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WissalManseri&theme=radical" alt="TopCodeBeast" align = "center"/></p>
 
 
 
