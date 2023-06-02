@@ -45,37 +45,15 @@
 
  👯 I’m looking to collaborate on : Any Project :)
  
- 🤝 I’m looking for help with : API
+
 
  💬 Ask me about : HTML, CSS, Python, Django
 
- 📫 How to reach me : wissalmanseri@gmail.com
+ 📫 How to reach me : wissalmanseri13@gmail.com
 
  😄 Pronouns : Mine/ Yours
 
  ⚡ fun fact : coffee
-
-<h3 align="left"> Join me :</h3>
-<p align="left">
-
-  
- <a href="https://instagram.com/wissal_m.n" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wissal_m.n" height="30" width="40" /></a>
-<a href="https://dev.to/wissalmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="wissalmn" height="30" width="40" /></a>
-<a href="https://twitter.com/wissal_mn2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg " alt="wissal_mn2410" height="30" width="40" /></a>
-
-
-<a href="https://codesandbox.com/wissal-mn" target="blank">
-<img align="center"src="https://user-images.githubusercontent.com/89531771/156276400-144d38d6-fff8-430b-9211-73cd35b228b6.png" alt="wissal-mn" height="30" width="40"/>
-</a>
-<a href="https://fb.com/wïssal%20mn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wïssal mn" height="30" width="40" /></a>
-<a href="https://codepen.io/wissal-mn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wissal-mn" height="30" width="40" /></a>
-<a href="https://dribbble.com/wissal-mn" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wissal-mn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZu8OHcz8yHFbBGf7shM3VQ" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wissal manseri" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Top technologie :</ h3>
 <br>
