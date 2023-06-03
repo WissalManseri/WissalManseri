@@ -38,8 +38,8 @@
 
 
 
- 🔭 I’m currently working on : [fake news detection](https://github.com/WISSAL-MN/fake-news-detection) /
- [face recognition](https://github.com/WISSAL-MN/face_recognition-)
+ 🔭 I’m currently working on : [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
+ [face recognition]([https://github.com/WISSAL-MN/face_recognition-](https://github.com/WissalManseri/Face_recognition))
 
  👩‍💻 I’m currently learning : Python, Mobile App Development
 
