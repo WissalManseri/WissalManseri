@@ -25,7 +25,7 @@
 
 
 
-<p align="left "> <img src="https://komarev.com/ghpvc/?username=WISSAL-MN&style=plastic&color=yellow" alt="wissal-mn" /> </p>
+
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=WissalManseri&style=plastic&color=yellow" alt="wissal-mn" /> </p>
 
