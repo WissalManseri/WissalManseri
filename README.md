@@ -37,7 +37,7 @@
 
  <h3 align="left"> ✍️ Random Dev Quote :</h3>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&qoute=-a)
 
 
  🔭 I’m currently working on : [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
