@@ -3,8 +3,6 @@
 ![wissal_](https://user-images.githubusercontent.com/89531771/158039025-355cc57f-bb57-427f-885e-1deebe4e9e13.png)
 
 
-
-
 <h1 align="left" > Hi there👋, MANSERI WISSAL 21 Y.O</h1>
 
 
@@ -37,6 +35,9 @@
  <br>
 <p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WissalManseri&theme=radical" alt="TopCodeBeast" align = "center"/></p>
 
+ <h3 align="left"> ✍️ Random Dev Quote :</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
  🔭 I’m currently working on : [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
@@ -147,7 +148,11 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 <p> <a href="https://ko-fi.com/WissalManseri"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="WISSAL-MN" /></a> </p>
  <br>
  <br>
+
+ <h3 align="left">GitHub Readme GitHub Stats:📊 </h3>
+   
  <br>
+  
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WissalManseri&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
 
@@ -164,7 +169,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  
  
  
- 
+
  
 
 
@@ -178,11 +183,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WissalManseri&&theme=radical" alt= "wissal-mn"width=497" /></p>
  
- <br>
- <br>
- <br>
- <br>
- <br>
+
  <br>
  <br>
  <br>
@@ -190,7 +191,9 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  <br>
  <br>
 
+ <h3 align="left"> 🔝 Top Contributed Repo :</h3>
 
+![](https://github-contributor-stats.vercel.app/api?username=WissalManseri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
 
