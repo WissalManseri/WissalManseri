@@ -216,4 +216,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  <br>
  <h3>   My contribution graph eaten by the snake: 🐍</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=12002&section=footer"/>
+</p>
  
