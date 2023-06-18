@@ -21,7 +21,7 @@
 
 ✨ Focused on being better everyday
 
-
+✨ The best way to predict futur is to invent it 
 
 
 
