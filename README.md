@@ -27,7 +27,7 @@
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=WissalManseri&style=plastic&color=yellow" alt="wissal-mn" /> </p>
 
-🏆 Github Achievements :
+ <h3 align="left"> 🏆 Github Achievements :</h3>
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WissalManseri&theme=radical)
 
