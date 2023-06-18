@@ -197,6 +197,16 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 ![](https://github-contributor-stats.vercel.app/api?username=WissalManseri&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+ <h3 align="left">🏆 Dooboo lab's github stats :</h3>
+
+
+<a href="![WissalManseri github-stats](https://stats.hyochan.dev/api/github-stats-advanced?login=WissalManseri)" style="background-color: #08304f">
+  <img src="https://stats.hyochan.dev/api/github-stats?login=WissalManseri&theme=radical" width="500" />
+</a>
+
+
+
+
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WissalManseri&bg_color=141321&color=4c839e&line=f05a0a&point=f2a602&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
