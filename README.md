@@ -27,10 +27,11 @@
 
 <details align="left">
   <summary><b>ALL MY CERTIFICATES</b></summary>
+<br>
   <ul>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQGBRxgIgkWWtA/feedshare-document-cover-images_800/0/1672765432114?e=1687788000&v=beta&t=uofPU5sNKWj4BsORbRIUdFbUBIEm_zJZs8x43aZeMUs">
-      Advance Your Skills in Deep Learning and Neural Networks
+   <a href="https://media.licdn.com/dms/image/C4E1FAQGBRxgIgkWWtA/feedshare-document-cover-images_800/0/1672765432114?e=1687788000&v=beta&t=uofPU5sNKWj4BsORbRIUdFbUBIEm_zJZs8x43aZeMUs" >
+       Advance Your Skills in Deep Learning and Neural Networks
     </a>
   </li>
    <li>
