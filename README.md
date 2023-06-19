@@ -25,7 +25,84 @@
 
 ✨ The best way to predict futur is to invent it 
 
-
+<details align="left">
+  <summary><b>ALL MY CERTIFICATES</b></summary>
+  <ul>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQGBRxgIgkWWtA/feedshare-document-cover-images_800/0/1672765432114?e=1687788000&v=beta&t=uofPU5sNKWj4BsORbRIUdFbUBIEm_zJZs8x43aZeMUs">
+      Advance Your Skills in Deep Learning and Neural Networks
+    </a>
+  </li>
+   <li>
+    <a href="https://media.licdn.com/dms/image/C4E1FAQH9JB9BddaXYA/feedshare-document-cover-images_800/0/1672353018544?e=1687788000&v=beta&t=6iYJYMRSEP9n-BH2hs7nfWA1lFhLsV4miY3uJDEwVLE">
+      Become a Django Developer
+    </a>
+   </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQEU6CCEaggbwQ/feedshare-document-cover-images_800/0/1670530689733?e=1687788000&v=beta&t=6u6REdT_1gDp0zNIEc4bVyCuuvZznHWo4VCc8Dgb3GE">
+      Devenir data scientist
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQEep6rqf3KS7w/feedshare-document-cover-images_800/0/1670577979864?e=1687788000&v=beta&t=l4mLalv1AL9g-gYglVXtWyrONHF1UXdN15dBu-zICM8">
+      Devenir développeur / développeuse Python
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8">
+      Devenir administrateur / administratrice système Linux
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQExS7x9M0QkDA/feedshare-document-cover-images_800/0/1668248989981?e=1687784400&v=beta&t=42qtswbuoXzJVNOW_eKr3Hf6eiPgOnvgkT-G5k0CL1c">
+      Devenir développeur / développeuse Java
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQE_UWKSbH-0kg/feedshare-document-cover-images_800/0/1668407695205?e=1687784400&v=beta&t=c-lshEXnv4mk1L5ZpJMOcAZon8eNR_1dWDfLpwSV1Ew">
+      Devenir développeur / développeuse de bases de données
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQGpHrzysQTSIA/feedshare-document-cover-images_800/0/1672264199952?e=1687788000&v=beta&t=-aZlnkSnUFqlaWx-HZHeNYVWj5cTHLrG_dckXpzMde8">
+        Devenir spécialiste de AWS
+      </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQE2tQNXMnthGQ/feedshare-document-cover-images_800/0/1670531119049?e=1687784400&v=beta&t=zLZfOz92ayF3AMmGnU62_gm_hWTUlt9pQ1cf1zfIuJE">
+      MATLAB pour les data scientists
+    </a>
+  </li>
+  <li><a href="https://media.licdn.com/dms/image/C4E1FAQEHCgnrhTWL4Q/feedshare-document-cover-images_800/0/1672765295139?e=1687788000&v=beta&t=iWuZPdP7Gg1mmx-kqM4SEBTBMYC_g9fT2UI9u5S-Uz4">
+      Anglais des affaires
+    </a></li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQFYndX6e6hXDA/feedshare-document-cover-images_800/0/1672332799950?e=1687788000&v=beta&t=UAHb1NGDqhOVeahKDk1u73NaZYl4_j7VwQT0N7m4Mxg">
+      Prepare for the AWS Certified Cloud Practitioner (CLF-C01) Certification Exam
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8">
+      Python pour la data science
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/C4E1FAQF2Fq4SLYpTgQ/feedshare-document-cover-images_800/0/1670531030911?e=1687784400&v=beta&t=bUK4Lb6BaiL9H9Wu2NDBoDBOJYCQJIfvlKjAcxzf49I">
+      R pour les data scientists
+    </a>
+  </li>
+  <li>
+   <a href="https://media.licdn.com/dms/image/D4E1FAQGfh94Er5AT6w/feedshare-document-cover-images_800/0/1665841219414?e=1687784400&v=beta&t=xiybJ32kavNBTE49-8jicwjhESPnkN4L2oFjgRtINqE">
+      Python : Niveau avancé
+    </a>
+  </li>
+  <li>
+   <a href="https://cdn.filestackcontent.com/YOwONkxcQhmXczraf2Bz?policy=eyJjYWxsIjpbInBpY2siLCJzdG9yZSIsInJlYWQiLCJjb252ZXJ0Iiwid3JpdGUiLCJzdGF0IiwicmVtb3ZlIl0sImV4cGlyeSI6MTY4NzE4Mjk2NywicGF0aCI6Il4xMTY1OTgvKGNvbW11bml0aWVzfGNvdXJzZXMpLyhbMC05XSspL3VzZXJzLzc1ODU0MTk2LyJ9&signature=5c91fd637f8d60728254855e7b0481d9695d41d92612873dd86e0ad17a295c1d">
+        HTML5 and CSS
+     </a>
+  </li>
+</ul>
+</details>
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=WissalManseri&style=plastic&color=yellow" alt="wissal-mn" /> </p>
 
