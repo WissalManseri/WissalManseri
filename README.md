@@ -17,6 +17,8 @@
 
 ✨ Skills: HTML / CSS / PYTHON / Flask / Java / SQL / C++
 
+✨ I like to train deep neural nets on large datasets 🧠🤖💥
+
 ✨ love writting dev article and share my knowledges
 
 ✨ Focused on being better everyday
