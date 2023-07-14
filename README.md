@@ -70,30 +70,30 @@
       </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQE2tQNXMnthGQ/feedshare-document-cover-images_800/0/1670531119049?e=1687784400&v=beta&t=zLZfOz92ayF3AMmGnU62_gm_hWTUlt9pQ1cf1zfIuJE">
+   <a href="https://www.linkedin.com/learning/certificates/d0463c715ccf8afbcac2e05d8adf78831249b9c40d8637a6324bc4d0c03af42d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       MATLAB pour les data scientists
     </a>
   </li>
-  <li><a href="https://media.licdn.com/dms/image/C4E1FAQEHCgnrhTWL4Q/feedshare-document-cover-images_800/0/1672765295139?e=1687788000&v=beta&t=iWuZPdP7Gg1mmx-kqM4SEBTBMYC_g9fT2UI9u5S-Uz4">
+  <li><a href="https://www.linkedin.com/learning/certificates/194e28cfa037b86c88fe15d110a27865019941f9aeceed9384d14fdd902d1b56?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Anglais des affaires
     </a></li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQFYndX6e6hXDA/feedshare-document-cover-images_800/0/1672332799950?e=1687788000&v=beta&t=UAHb1NGDqhOVeahKDk1u73NaZYl4_j7VwQT0N7m4Mxg">
+   <a href="https://www.linkedin.com/learning/certificates/3c8c99c7a31ccaad2d081c31525aa7b7b0eb5fe3c58a690cdb8b208e86a7aed6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Prepare for the AWS Certified Cloud Practitioner (CLF-C01) Certification Exam
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8">
+   <a href="[https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8](https://www.linkedin.com/learning/certificates/c3efc149b587c7dd3e4e47c6d6c175bb01d8c200a0684b1e31d4523100f48cc2)">
       Python pour la data science
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQF2Fq4SLYpTgQ/feedshare-document-cover-images_800/0/1670531030911?e=1687784400&v=beta&t=bUK4Lb6BaiL9H9Wu2NDBoDBOJYCQJIfvlKjAcxzf49I">
+   <a href="https://www.linkedin.com/learning/certificates/9baa63091de7c580e7f14c7c7c473023b97e5eb9ac1f66fb528b4f0d2192fbf5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       R pour les data scientists
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/D4E1FAQGfh94Er5AT6w/feedshare-document-cover-images_800/0/1665841219414?e=1687784400&v=beta&t=xiybJ32kavNBTE49-8jicwjhESPnkN4L2oFjgRtINqE">
+   <a href="https://www.linkedin.com/learning/certificates/f9c3c5934438ff5d55668433aa804c710da3e111dd2082b58860be1ff358c709?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BKVSU5XZaSPSHq4Gs2By0aA%3D%3D">
       Python : Niveau avancé
     </a>
   </li>
