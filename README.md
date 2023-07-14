@@ -83,7 +83,7 @@
     </a>
   </li>
   <li>
-   <a href="[https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8](https://www.linkedin.com/learning/certificates/c3efc149b587c7dd3e4e47c6d6c175bb01d8c200a0684b1e31d4523100f48cc2)">
+   <a href="https://www.linkedin.com/learning/certificates/c3efc149b587c7dd3e4e47c6d6c175bb01d8c200a0684b1e31d4523100f48cc2">
       Python pour la data science
     </a>
   </li>
@@ -98,7 +98,7 @@
     </a>
   </li>
   <li>
-   <a href="https://cdn.filestackcontent.com/YOwONkxcQhmXczraf2Bz?policy=eyJjYWxsIjpbInBpY2siLCJzdG9yZSIsInJlYWQiLCJjb252ZXJ0Iiwid3JpdGUiLCJzdGF0IiwicmVtb3ZlIl0sImV4cGlyeSI6MTY4NzE4Mjk2NywicGF0aCI6Il4xMTY1OTgvKGNvbW11bml0aWVzfGNvdXJzZXMpLyhbMC05XSspL3VzZXJzLzc1ODU0MTk2LyJ9&signature=5c91fd637f8d60728254855e7b0481d9695d41d92612873dd86e0ad17a295c1d">
+   <a href="https://www.pirple.com/certificates/6iqdeytlcg">
         HTML5 and CSS
      </a>
   </li>
