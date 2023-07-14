@@ -45,7 +45,7 @@
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQEep6rqf3KS7w/feedshare-document-cover-images_800/0/1670577979864?e=1687788000&v=beta&t=l4mLalv1AL9g-gYglVXtWyrONHF1UXdN15dBu-zICM8">
+   <a href="https://www.linkedin.com/learning/certificates/977de772bbcf005e986d3acb9f3b0359c2d2e0f54195d3a79d64efdfedf64b7a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Devenir développeur / développeuse Python
     </a>
   </li>
