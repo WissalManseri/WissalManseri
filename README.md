@@ -65,7 +65,7 @@
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQGpHrzysQTSIA/feedshare-document-cover-images_800/0/1672264199952?e=1687788000&v=beta&t=-aZlnkSnUFqlaWx-HZHeNYVWj5cTHLrG_dckXpzMde8">
+   <a href="https://www.linkedin.com/learning/certificates/25d118b9a09a8687234f83904bbdd59f2b66932560386864e9ed4cf6970928b6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
         Devenir spécialiste de AWS
       </a>
   </li>
