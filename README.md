@@ -30,17 +30,17 @@
 <br>
   <ul>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQGBRxgIgkWWtA/feedshare-document-cover-images_800/0/1672765432114?e=1687788000&v=beta&t=uofPU5sNKWj4BsORbRIUdFbUBIEm_zJZs8x43aZeMUs" >
+   <a href="https://www.linkedin.com/learning/certificates/e86771b978eabd58a865ad0c127eeaf7c7ac15b0cd38ff9dd2841e49040d2a73?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTsrJeG9iR%2F26sl0kh16mtw%3D%3D" >
        Advance Your Skills in Deep Learning and Neural Networks
     </a>
   </li>
    <li>
-    <a href="https://media.licdn.com/dms/image/C4E1FAQH9JB9BddaXYA/feedshare-document-cover-images_800/0/1672353018544?e=1687788000&v=beta&t=6iYJYMRSEP9n-BH2hs7nfWA1lFhLsV4miY3uJDEwVLE">
+    <a href="https://www.linkedin.com/learning/certificates/4274d7c0962fa78ec968c66824fae3a086de413c59c539f6fb1005b3db3069be?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTsrJeG9iR%2F26sl0kh16mtw%3D%3D">
       Become a Django Developer
     </a>
    </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQEU6CCEaggbwQ/feedshare-document-cover-images_800/0/1670530689733?e=1687788000&v=beta&t=6u6REdT_1gDp0zNIEc4bVyCuuvZznHWo4VCc8Dgb3GE">
+   <a href="https://www.linkedin.com/learning/certificates/65d8013f03dd15a5f8cf44d2cf284cc4b83c0ffdc44caa3858e47e8011ffa30c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Devenir data scientist
     </a>
   </li>
