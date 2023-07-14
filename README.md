@@ -50,12 +50,12 @@
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQF2yUvQTQAH8w/feedshare-document-cover-images_800/0/1668265183963?e=1687784400&v=beta&t=_h3XwkUsjrycncqRx5xMe53vCPwOM1K-2VPPYQE8KU8">
+   <a href="https://www.linkedin.com/learning/certificates/b80beeeb9e14cd6c154cc736d3821eb76db38c9a4f9582ac3f376c37f115f638?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Devenir administrateur / administratrice système Linux
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQExS7x9M0QkDA/feedshare-document-cover-images_800/0/1668248989981?e=1687784400&v=beta&t=42qtswbuoXzJVNOW_eKr3Hf6eiPgOnvgkT-G5k0CL1c">
+   <a href="https://www.linkedin.com/learning/certificates/7cf4f5d46bcbeac64572090dd8a1bc8bf811fefaf06245c1445c2965c949c613?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D">
       Devenir développeur / développeuse Java
     </a>
   </li>
