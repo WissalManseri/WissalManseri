@@ -60,7 +60,7 @@
     </a>
   </li>
   <li>
-   <a href="https://media.licdn.com/dms/image/C4E1FAQE_UWKSbH-0kg/feedshare-document-cover-images_800/0/1668407695205?e=1687784400&v=beta&t=c-lshEXnv4mk1L5ZpJMOcAZon8eNR_1dWDfLpwSV1Ew">
+   <a href="[https://media.licdn.com/dms/image/C4E1FAQE_UWKSbH-0kg/feedshare-document-cover-images_800/0/1668407695205?e=1687784400&v=beta&t=c-lshEXnv4mk1L5ZpJMOcAZon8eNR_1dWDfLpwSV1Ew](https://www.linkedin.com/learning/certificates/cf5a265638fcca9f3722f73bf8161bb8d061bc37aa82693fd263d89eb001fa6c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BM%2BSaS%2F72Rtm6Sai1Bq7pBQ%3D%3D)">
       Devenir développeur / développeuse de bases de données
     </a>
   </li>
