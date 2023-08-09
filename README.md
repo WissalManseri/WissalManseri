@@ -298,7 +298,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  <h3>  🐍 My contribution graph eaten by the snake: </h3>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WissalManseri)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=12002&section=footer"/>
 </p>
