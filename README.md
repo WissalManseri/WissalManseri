@@ -296,10 +296,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  
  <br>
  <h3>  🐍 My contribution graph eaten by the snake: </h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WissalManseri)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
