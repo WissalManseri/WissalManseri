@@ -8,14 +8,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeuse+web+'WM'&color=%2306161C&size=87&width=1000&height=130)](https://git.io/typing-svg)
 
+### <span style="color:blue;">About Me</span>
 
+<span style="color:red; animation: pulse 2s infinite;">Passionate about web development and data science, I specialize in leveraging cutting-edge technologies to build innovative solutions and extract valuable insights from data. With a strong foundation in programming and a keen interest in machine learning and data visualization, I am dedicated to continuous learning and exploring new technologies to tackle complex challenges.</span>
+
+### <span id="about-me" style="cursor: pointer;">About Me</span>
+
+   
 ✨ Computer Science Student (UMAB - FSEI)
 
 ✨ Backend Developer
 
 ✨ Linux Lover 
 
-✨ Skills: HTML / CSS / PYTHON / Flask / Java / SQL / C++
+✨ Skills: HTML / CSS / PYTHON / Flask / Java / SQL / C++ / Data Science / Machine Learning / Statistical Analysis /Data Visualization
+
 
 ✨ I like to train deep neural nets on large datasets 🧠🤖💥
 
@@ -132,8 +139,12 @@
  
 
 
- 💬 Ask me about : HTML, CSS, Python, Django
+ 💬 Ask me about : HTML, CSS, Python, Django, MySQL, PostgreSQL, MongoDB, Cassandra
 
+ 👩‍💻 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Spark
+
+ 👩‍💻  - **Tools/Platforms:** Jupyter Notebook, Git, Docker
+  
  📫 How to reach me : wissalmanseri13@gmail.com
 
  😄 Pronouns : Mine/ Yours
