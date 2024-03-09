@@ -10,9 +10,8 @@
 
 ### <span style="color:blue;">About Me</span>
 
-<span style="color:red; animation: pulse 2s infinite;">Passionate about web development and data science, I specialize in leveraging cutting-edge technologies to build innovative solutions and extract valuable insights from data. With a strong foundation in programming and a keen interest in machine learning and data visualization, I am dedicated to continuous learning and exploring new technologies to tackle complex challenges.</span>
+<span style="color: blue; animation: pulse 2s infinite;">Passionate about web development and data science, I specialize in leveraging cutting-edge technologies to build innovative solutions and extract valuable insights from data. With a strong foundation in programming and a keen interest in machine learning and data visualization, I am dedicated to continuous learning and exploring new technologies to tackle complex challenges.</span>
 
-### <span id="about-me" style="cursor: pointer;">About Me</span>
 
    
 ✨ Computer Science Student (UMAB - FSEI)
