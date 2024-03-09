@@ -129,7 +129,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&qoute=-a)
 
 
- 🔭 I’m currently working on : [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
+ 🔭 I’m currently working on : recomendation system based on AI
+ 
+🔭 I finished the work on: [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
  [face recognition]([https://github.com/WISSAL-MN/face_recognition-](https://github.com/WissalManseri/Face_recognition))
 
  👩‍💻 I’m currently learning : Python, Mobile App Development
