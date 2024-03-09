@@ -311,7 +311,9 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  <br>
  <h3>  🐍 My contribution graph eaten by the snake: </h3>
 
+<img src="https://raw.githubusercontent.com/WissalManseri/WissalManseri/output/snake.svg" alt="Snake animation" />
 
+###
 
 <br clear="both">
 
