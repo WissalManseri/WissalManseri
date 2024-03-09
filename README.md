@@ -311,6 +311,12 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
 
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=12002&section=footer"/>
 </p>
