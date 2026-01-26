@@ -134,13 +134,13 @@
 🔭 I finished the work on: [fake news detection]([https://github.com/WISSAL-MN/fake-news-detection](https://github.com/WissalManseri/FAKE-NEWS-DECTION)) /
  [face recognition]([https://github.com/WISSAL-MN/face_recognition-](https://github.com/WissalManseri/Face_recognition))
 
- 👩‍💻 I’m currently learning : Python, Mobile App Development
+ 👩‍💻 I’m currently learning : Python, React
 
  👯 I’m looking to collaborate on : Any Project :)
  
 
 
- 💬 Ask me about : HTML, CSS, Python, Django, MySQL, PostgreSQL, MongoDB, Cassandra
+ 💬 Ask me about : HTML, CSS, Python, Django, MySQL, PostgreSQL.
 
  👩‍💻 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Spark
 
